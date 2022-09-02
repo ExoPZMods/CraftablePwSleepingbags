@@ -1,6 +1,6 @@
-version = 0.1
-id =
-title = Exo's Craftable PaperWyvern's Sleeping Bags
-description = This mod augments PaperWyverns_Sleepingbags, adding the ability to craft sleeping bag from common items.
-tags =
-visibility = public
+version=0.1
+id=
+title=Exo's Craftable PaperWyvern's Sleeping Bags
+description=This mod augments PaperWyverns_Sleepingbags, adding the ability to craft sleeping bag from common items.
+tags=
+visibility=public
