@@ -1,0 +1,18 @@
+module Base {
+  recipe Make Sleeping Bag {
+    Result:Sleepingbag,
+
+    keep Needle/SutureNeedle,
+    keep Scissors/HuntingKnife/KitchenKnife,
+    DenimStrips=8,
+    Sheet=2,
+    Thread=10,
+    RippedSheets=8,
+
+    CanBeDoneFromFloor:true,
+    Time:300.0,
+    Category:Tailoring,
+    SkillRequired:Tailoring=4,
+    OnGiveXP:ExoGive15TailoringXP,
+  }
+}
