@@ -4,9 +4,11 @@ First a big thanks to PaperWyvern for creating the sleeping bag mod. This mod au
 
 ## Recipe
 **Keep Items**
-- Needle
+- Needle or Suture Needle
+- Hunting Knife or Kitchen Knife or Scissors
+
 **Consumed Items**
 - 2 sheets
 - 8 ripped sheet strips
 - 8 ripped denim strips
-- 1 Thread (full)
+- 10 Units of Thread (1 full thread)
