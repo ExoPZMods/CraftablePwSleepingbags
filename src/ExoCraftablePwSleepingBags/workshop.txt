@@ -1,4 +1,4 @@
-version=0.1
+version=0.2
 id=2857441252
 title=Exo's Craftable PaperWyvern's Sleeping Bags
 description=This mod augments PaperWyverns_Sleepingbags, adding the ability to craft sleeping bag from common items.

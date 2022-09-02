@@ -5,7 +5,7 @@ First a big thanks to PaperWyvern for creating the sleeping bag mod. This mod au
 ## Recipe
 **Keep Items**
 - Needle or Suture Needle
-- Hunting Knife or Kitchen Knife or Scissors
+- Hunting Knife or Kitchen Knife or Scissors | Optionally: Consumes a FlintKnife
 
 **Consumed Items**
 - 2 sheets

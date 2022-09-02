@@ -1,9 +1,13 @@
-module Base {
+module ExoCraftablePwSleepingbags {
+  imports {
+    Base
+  }
+  
   recipe Make Sleeping Bag {
     Result:Sleepingbag,
 
     keep Needle/SutureNeedle,
-    keep Scissors/HuntingKnife/KitchenKnife,
+    keep Scissors/HuntingKnife/KitchenKnife/FlintKnife,
     DenimStrips=8,
     Sheet=2,
     Thread=10,
@@ -14,5 +18,6 @@ module Base {
     Category:Tailoring,
     SkillRequired:Tailoring=4,
     OnGiveXP:ExoGive15TailoringXP,
+    OnCreate:ExoDestroyFlintKnife,
   }
 }
